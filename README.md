@@ -111,7 +111,7 @@ Actual insights are calculated from the dataset.
 
 Step 1: Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/harshalpala57-cloud/Student_Performance_Analysis.git
 
 Step 2: Open the Project Folder
 
